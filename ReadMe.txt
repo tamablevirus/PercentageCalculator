@@ -1,0 +1,1 @@
+This program, written in python, simply allows you to find the percentages of numbers over one large number and lets you choose the amount of digits that you would like to round to.
